@@ -5,6 +5,8 @@
 *.aux
 *.fdb_latexmk
 *.out
-*.pdf
 *.gz
 *.cut
+*.bcf
+*.xml
+*.xmpi
